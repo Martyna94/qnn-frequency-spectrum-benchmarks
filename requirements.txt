@@ -1,0 +1,12 @@
+jax~=0.4.31
+jaxopt~=0.8.3
+PennyLane~=0.37.0
+tqdm~=4.66.5
+matplotlib~=3.9.2
+pandas~=2.2.2
+numpy~=1.26.4
+scikit-learn~=1.5.1
+parameterized~=0.9.0
+imbalanced-learn~=0.11.0
+PyWavelets~=1.8.0
+tensorflow~=2.17.0
