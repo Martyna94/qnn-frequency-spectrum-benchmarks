@@ -26,6 +26,7 @@ data_fabrik/
 data_Umlaut/dataset/
 data_Umlaut/results/
 data_Umlaut/figures/
+data_Umlaut/Exploratory_Analysis_Data.ipynb
 dataset_NASA/results/
 dataset_NASA/figures/
 dataset_synthetic/Experiments_List.xlsx
